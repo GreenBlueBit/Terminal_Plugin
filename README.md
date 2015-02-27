@@ -16,6 +16,7 @@ a power button :D)
 I've made two demos showing how this can be used for multiple purposes :
 
 http://demos.bluebit.nu/elite_terminal/
+
 http://demos.bluebit.nu/terminal/
 
 Their files are in here, you can also change the styling or the js however you want, just lemme know what comes out of it please.
