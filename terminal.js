@@ -271,8 +271,10 @@
         }
     };
     $.display = function(param) {
-        $("#img-holder").html('<img src="img/'+param+'">');
-        $('#img-holder').addClass('visible');
+        var img_holder = $('#img-holder');
+     
+        img_holder.html('<img src="img/'+param+'">');
+        img_holder.addClass('visible');
     };
 
     $.hide = function() {
